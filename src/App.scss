@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff;
+    color: #1a1a1a;
+    .content{
+        padding: 40px;
+    }
+    .lb-header{
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+        color: #535bf2;
+    }
+    .lb-action{
+        display: flex;
+        justify-content: space-between;
+    }
+    .mt-8{
+        margin-top: 8px;
+    }
+    .mt-12{
+        margin-top: 12px;
+    }
+    .text-center{
+        text-align: center;
+    }
+}
